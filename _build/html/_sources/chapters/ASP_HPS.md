@@ -1,5 +1,5 @@
-(ASP_PHC)=
-# Astrophysics and Physical Chemistry
+(ASP_HPS)=
+# Astrophysics and History, Philosophy and Social Studies of Science
 
 Hello world info here
 
@@ -28,18 +28,18 @@ Hello world info here
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0005](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0005) | Chemical Foundations | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0005&acadYearFl=N) |  |
+| [HPSC0009](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0009) | Revealing Science | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0009&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Core modules :
+:::{dropdown} Choose 30 credits :
 :color: primary
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0009](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0009) | Basic Physical Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0009&acadYearFl=N) |  |
-| Choose 1 | Missing info |  |  | 5 credits : |
-| [CHEM0013](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0013) | Basic Inorganic Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0013&acadYearFl=N) |  |
-| [CHEM0008](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0008) | Basic Organic Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0008&acadYearFl=N) |  |
+| [HPSC0006](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0006) | Science Policy | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0006&acadYearFl=N) |  |
+| [HPSC0004](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0004) | Philosophy of Science 1 | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0004&acadYearFl=N) |  |
+| [HPSC0010](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0010) | History of Modern Science | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0010&acadYearFl=N) |  |
+| [HPSC0007](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0007) | Investigating Sociology and Politics of Science | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0007&acadYearFl=N) |  |
 
 :::
 
@@ -66,23 +66,27 @@ Hello world info here
 | [PHAS0022](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0022) | Quantum Physics | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0022&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Core modules :
+:::{dropdown} Choose 15-45 credits :
 :color: primary
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0019](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0019) | Physical Chemistry | 30 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0019&acadYearFl=N) |  |
-| [CHEM0021](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0021) | Chemical Dynamics | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0021&acadYearFl=N) |  |
+| [HPSC0105](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0105) | Sociology of Science and Technology | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0105&acadYearFl=N) |  |
+| [HPSC0017](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0017) | Science and Ethics | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0017&acadYearFl=N) |  |
+| HPSC0139 | Missing info |  |  |  |
+| [HPSC0013](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0013) | Science in Popular Culture | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0013&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose 0-15 credits :
+:::{dropdown} Choose 0-30 credits :
 :color: primary
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0015](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0015) | Inorganic Chemistry for Physical Science | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0015&acadYearFl=N) |  |
-| [CHEM0012](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0012) | Chemistry of Materials | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0012&acadYearFl=N) |  |
-| [CHEM0017](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0017) | Fundamentals of Organic Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0017&acadYearFl=N) |  |
+| [HPSC0012](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0012) | Policy Issues in the Life Sciences | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0012&acadYearFl=N) |  |
+| [HPSC0036](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0036) | Engaging the Public with Science | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0036&acadYearFl=N) |  |
+| HPSC0037 | Missing info |  |  |  |
+| [HPSC0022](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0022) | Science and Religion | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0022&acadYearFl=N) |  |
+| [HPSC0014](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0014) | Philosophy of Science 2 | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0014&acadYearFl=N) |  |
 
 :::
 
@@ -110,30 +114,22 @@ Hello world info here
 | [PHAS0113](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0113) | Astrophysics Group Project | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0113&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Core modules :
+:::{dropdown} Major stream choose 60-75 credits : Minor stream choose 30-45 credits :
 :color: primary
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0037](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0037) | Advanced Topics in Physical Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0037&acadYearFl=N) |  |
-| [CHEM0028](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0028) | Concepts in Computational Chemistry | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0028&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Core for major stream :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0025](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0025) | Instrumental and Computational Techniques in Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0025&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Major stream choose 15-30 credits : Minor stream choose 0-15 credits :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0039](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0039) | New Directions in Materials Chemistry | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0039&acadYearFl=N) |  |
-| CHEM---- | Missing info |  |  |  |
+| [HPSC0111](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0111) | Science, Art and Philosophy | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0111&acadYearFl=N) |  |
+| HPSC0023 | Missing info |  |  |  |
+| [HPSC0061](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0061) | Governing Emerging Technologies | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0061&acadYearFl=N) |  |
+| [HPSC0002](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0002) | Disease in History | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0002&acadYearFl=N) |  |
+| [HPSC0039](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0039) | Science, Warfare and Peace | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0039&acadYearFl=N) |  |
+| [HPSC0110](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0110) | Medicine, History and Society | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0110&acadYearFl=N) |  |
+| [HPSC0109](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0109) | Philosophy of Medicine | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0109&acadYearFl=N) |  |
+| HPSC0067 | Missing info |  |  |  |
+| HPSC0044 | Missing info |  |  |  |
+| [HPSC0065](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0065) | Philosophy of Information | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0065&acadYearFl=N) |  |
+| [HPSC0107](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0107) | Science Journalism | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0107&acadYearFl=N) |  |
 
 :::
 
@@ -167,17 +163,22 @@ Hello world info here
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0080](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0080) | Advanced Chemical Research Project | 75 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0080&acadYearFl=N) |  |
+| HPSC0145 | Missing info |  |  |  |
 
 :::
-:::{dropdown} Major stream chooses 15-45 credits : Minor stream chooses 0-30 credits :
+:::{dropdown} Choose 30-60 credits :
 :color: primary
 :open:
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [CHEM0077](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0077) | Topics in Modern Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0077&acadYearFl=N) |  |
-| [CHEM0078](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0078) | Topics in Modern Chemistry | 30 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0078&acadYearFl=N) |  |
-| [CHEM0079](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0079) | Topics in Modern Chemistry | 45 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0079&acadYearFl=N) |  |
+| [HPSC0087](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0087) | Science in the Twentieth Century and Beyond | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0087&acadYearFl=N) |  |
+| [HPSC0092](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0092) | Responsible Science and Innovation | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0092&acadYearFl=N) |  |
+| [HPSC0089](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0089) | Curating Science and Technology | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0089&acadYearFl=N) |  |
+| [HPSC0126](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0126) | Research Methods in Data Analysis in Science and Technology Studies | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0126&acadYearFl=N) |  |
+| HPSC0085 | Missing info |  |  |  |
+| [HPSC0080](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0080) | Early Modern Science | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0080&acadYearFl=N) |  |
+| HPSC0093 | Missing info |  |  |  |
+| [HPSC0084](https://www.ucl.ac.uk/module-catalogue/modules/HPSC0084) | Causality, Mechanism and Evidence in Science | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=HPSC0084&acadYearFl=N) |  |
 
 :::
 

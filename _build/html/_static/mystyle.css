@@ -18,3 +18,27 @@ body {
   --sd-color-info: #FFB6C1;
   --sd-color-info-text: #212529;
 }
+
+table {
+    width: 100%;
+}
+
+td:nth-child(1) {
+    width: 10%;
+}
+
+td:nth-child(2) {
+    width: 65%;
+}
+
+td:nth-child(3) {
+    width: 15%;
+}
+
+td:nth-child(4) {
+    width: 5%;
+}
+
+td:nth-child(5) {
+    width: 5%;
+}
