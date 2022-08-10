@@ -4,4 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: chapters/ASP_GEO
+- file: chapters/ASP
+- file: chapters/BMS

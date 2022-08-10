@@ -1,5 +1,9 @@
+# Biomedical Sciences
+
+Introductory text goes here
+
 (BMS_HPS)=
-# Biomedical Sciences and History, Philosophy and Social Studies of Science
+## *and* History, Philosophy and Social Studies of Science
 
 Hello world info here
 
@@ -70,8 +74,6 @@ Hello world info here
 | [NSCI0007](https://www.ucl.ac.uk/module-catalogue/modules/NSCI0007) | Scientific Communication and Computing | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=NSCI0007&acadYearFl=N) |  |
 
 :::
-:::{card} You can also choose a 15 credit elective
-:::
 ::::{dropdown} (Biomedical Sciences)<br/>Choose at least 45 credits
 :color: secondary
 
@@ -131,7 +133,7 @@ Individual preferences can be considered. Contact the Biomedical Sciences Stream
 :::
 ::::
 
-:::{card} This is just a test
+:::{card} You can also choose a 15 credit elective
 :::
 
 ````
@@ -281,3 +283,5 @@ In Year 4: any level 7 modules available, after consultation with tutor
 
 
 `````
+
+Another route will go here
