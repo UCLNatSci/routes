@@ -1,5 +1,5 @@
-(ASP_PHC)=
-# Astrophysics and Physical Chemistry
+(ASP_PCE)=
+# Astrophysics and Policy, Communication and Ethics
 
 Hello world info here
 
@@ -21,25 +21,6 @@ Hello world info here
 | :-- | :-- | :-- | :-- | :-- |
 | [PHAS0006](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0006) | Thermal Physics Thermal Physics and the Properties of Matter | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0006&acadYearFl=N) |  |
 | NSCI0027 | Missing info |  |  |  |
-
-:::
-:::{dropdown} Term 1 Foundation Module :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0005](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0005) | Chemical Foundations | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0005&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Core modules :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0009](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0009) | Basic Physical Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0009&acadYearFl=N) |  |
-| Choose 1 | Missing info |  |  | 5 credits : |
-| [CHEM0013](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0013) | Basic Inorganic Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0013&acadYearFl=N) |  |
-| [CHEM0008](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0008) | Basic Organic Chemistry | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0008&acadYearFl=N) |  |
 
 :::
 
@@ -64,25 +45,6 @@ Hello world info here
 | [PHAS0019](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0019) | Planetary Science | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0019&acadYearFl=N) |  |
 | [PHAS0024](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0024) | Statistical Physics of Matter | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0024&acadYearFl=N) |  |
 | [PHAS0022](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0022) | Quantum Physics | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0022&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Core modules :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0019](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0019) | Physical Chemistry | 30 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0019&acadYearFl=N) |  |
-| [CHEM0021](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0021) | Chemical Dynamics | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0021&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Choose 0-15 credits :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0015](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0015) | Inorganic Chemistry for Physical Science | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0015&acadYearFl=N) |  |
-| [CHEM0012](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0012) | Chemistry of Materials | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0012&acadYearFl=N) |  |
-| [CHEM0017](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0017) | Fundamentals of Organic Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0017&acadYearFl=N) |  |
 
 :::
 
@@ -110,32 +72,6 @@ Hello world info here
 | [PHAS0113](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0113) | Astrophysics Group Project | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0113&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Core modules :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0037](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0037) | Advanced Topics in Physical Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0037&acadYearFl=N) |  |
-| [CHEM0028](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0028) | Concepts in Computational Chemistry | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0028&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Core for major stream :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0025](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0025) | Instrumental and Computational Techniques in Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0025&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Major stream choose 15-30 credits : Minor stream choose 0-15 credits :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0039](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0039) | New Directions in Materials Chemistry | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0039&acadYearFl=N) |  |
-| CHEM---- | Missing info |  |  |  |
-
-:::
 
 ````
 ````{tab-item} Year 4
@@ -160,24 +96,6 @@ Hello world info here
 | [SPCE0011](https://www.ucl.ac.uk/module-catalogue/modules/SPCE0011) | Solar Physics (SS6) | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=SPCE0011&acadYearFl=N) |  |
 | [SPCE0005](https://www.ucl.ac.uk/module-catalogue/modules/SPCE0005) | Space Plasma and Magnetospheric Physics (SS109) | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=SPCE0005&acadYearFl=N) |  |
 | [SPCE0012](https://www.ucl.ac.uk/module-catalogue/modules/SPCE0012) | High Energy Astrophysics (SS7) | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=SPCE0012&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Research project (major stream):
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0080](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0080) | Advanced Chemical Research Project | 75 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0080&acadYearFl=N) |  |
-
-:::
-:::{dropdown} Major stream chooses 15-45 credits : Minor stream chooses 0-30 credits :
-:color: primary
-:open:
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| [CHEM0077](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0077) | Topics in Modern Chemistry | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0077&acadYearFl=N) |  |
-| [CHEM0078](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0078) | Topics in Modern Chemistry | 30 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0078&acadYearFl=N) |  |
-| [CHEM0079](https://www.ucl.ac.uk/module-catalogue/modules/CHEM0079) | Topics in Modern Chemistry | 45 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=CHEM0079&acadYearFl=N) |  |
 
 :::
 
