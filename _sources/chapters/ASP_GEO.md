@@ -19,9 +19,8 @@ Hello world info here
 | [NSCI0005](https://www.ucl.ac.uk/module-catalogue/modules/NSCI0005) | Mathematics for Natural Sciences 1 | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=NSCI0005&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose an additional foundation module
-:color: info
-:open:
+:::{card} Choose an additional foundation module
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -46,9 +45,8 @@ Hello world info here
 | [GEOL0004](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0004) | Dynamic Earth | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0004&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose one
-:color: primary
-:open:
+:::{card} Choose one
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -69,14 +67,25 @@ Hello world info here
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| [PHAS0003](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0003) | Practical Skills 1A | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0003&acadYearFl=N) |  |
-| [PHAS0018](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0018) | Astrophysical Processes: Nebulae to Stars | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0018&acadYearFl=N) |  |
-| [GEOL0012](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0012) | Global Geophysics | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0012&acadYearFl=N) |  |
+| [NSCI0007](https://www.ucl.ac.uk/module-catalogue/modules/NSCI0007) | Scientific Communication and Computing | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=NSCI0007&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose one
-:color: primary
-:open:
+:::{card} You can also choose a 15 credit elective.
+:::
+::::{dropdown} (Physics)<br/>Choose at least 45 credits
+:color: secondary
+
+:::{card} Core modules
+
+
+||||||
+| :-- | :-- | :-- | :-- | :-- |
+| [PHAS0003](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0003) | Practical Skills 1A | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0003&acadYearFl=N) |  |
+| [PHAS0018](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0018) | Astrophysical Processes: Nebulae to Stars | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0018&acadYearFl=N) |  |
+
+:::
+:::{card} Choose at least one
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -86,9 +95,21 @@ Hello world info here
 | [PHAS0022](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0022) | Quantum Physics | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0022&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose two
-:color: primary
-:open:
+::::
+
+::::{dropdown} (Geophysics)<br/>Choose at least 45 credits
+:color: secondary
+
+:::{card} Core modules
+
+
+||||||
+| :-- | :-- | :-- | :-- | :-- |
+| [GEOL0012](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0012) | Global Geophysics | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0012&acadYearFl=N) |  |
+
+:::
+:::{card} Choose at least two
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -103,14 +124,22 @@ Hello world info here
 | [GEOL0018](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0018) | Numerical Methods for Earth Sciences | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0018&acadYearFl=N) |  |
 
 :::
-:::{card} You can also choose a 15 credit elective.
-:::
+::::
+
 
 ````
 
 ````{tab-item} Year 3
 
-::::{dropdown} (Physics major)
+:::{card} Core modules
+
+
+||||||
+| :-- | :-- | :-- | :-- | :-- |
+| [NSCI0004](https://www.ucl.ac.uk/module-catalogue/modules/NSCI0004) | Literature Project for Natural Sciences BSc/MSci Programme | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=NSCI0004&acadYearFl=N) |  |
+
+:::
+::::{dropdown} (Physics major)<br/>Choose at least 60 credits
 :color: secondary
 
 :::{card} Core modules
@@ -123,9 +152,8 @@ Hello world info here
 | [PHAS0036](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0036) | The Physics of Stars | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0036&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose at least 15 credits
-:color: primary
-:open:
+:::{card} Choose at least 15 credits
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -137,7 +165,7 @@ Hello world info here
 :::
 ::::
 
-::::{dropdown} (Geophysics major)
+::::{dropdown} (Geophysics major)<br/>Choose at least 60 credits
 :color: secondary
 
 :::{card} Core modules
@@ -148,9 +176,8 @@ Hello world info here
 | [GEOL0057](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0057) | Geodynamics and Global Tectonics | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0057&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose 15 credits
-:color: primary
-:open:
+:::{card} Choose 15 credits
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -158,9 +185,8 @@ Hello world info here
 | [GEOL0022](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0022) | Ocean Physics and Climate Change | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0022&acadYearFl=N) | ** |
 **Field trip for GEOL0022 commences prior to the start of term 1, usually in September.
 :::
-:::{dropdown} Choose at least 30 credits
-:color: primary
-:open:
+:::{card} Choose at least 30 credits
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -192,9 +218,8 @@ Hello world info here
 | [PHAS0096](https://www.ucl.ac.uk/module-catalogue/modules/PHAS0096) | Astrophysics Projects | 45 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=PHAS0096&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose 45-75 credits
-:color: primary
-:open:
+:::{card} Choose at least 45 credits
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
@@ -223,9 +248,8 @@ Hello world info here
 | [GEOL0039](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0039) | Earth and Planetary System Science | 15 credits | [T1/2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0039&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose 30-45 credits
-:color: primary
-:open:
+:::{card} Choose at least 30 credits
+
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
