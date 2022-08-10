@@ -6,7 +6,10 @@ Hello world info here
 `````{tab-set}
 ````{tab-item} Year 1
 
-:::{card} Core modules (term 1)
+::::{dropdown} Term 1
+:color: secondary
+
+:::{card} Core modules
 
 
 ||||||
@@ -28,7 +31,12 @@ Hello world info here
 | [BIOS0019](https://www.ucl.ac.uk/module-catalogue/modules/BIOS0019) | Life Sciences Foundation | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=BIOS0019&acadYearFl=N) |  |
 
 :::
-:::{card} Core modules (term 2)
+::::
+
+::::{dropdown} Term 2
+:color: secondary
+
+:::{card} Core modules
 
 
 ||||||
@@ -38,7 +46,7 @@ Hello world info here
 | [GEOL0004](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0004) | Dynamic Earth | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0004&acadYearFl=N) |  |
 
 :::
-:::{dropdown} Choose one (term 2)
+:::{dropdown} Choose one
 :color: primary
 :open:
 
@@ -49,6 +57,8 @@ Hello world info here
 | [GEOL0003](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0003) | History of Life | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0003&acadYearFl=N) |  |
 *Includes fieldwork for which there may be a financial contribution. 
 :::
+::::
+
 
 ````
 
@@ -93,12 +103,12 @@ Hello world info here
 | [GEOL0018](https://www.ucl.ac.uk/module-catalogue/modules/GEOL0018) | Numerical Methods for Earth Sciences | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=GEOL0018&acadYearFl=N) |  |
 
 :::
-You can also choose a 15 credit elective.
+:::{card} You can also choose a 15 credit elective.
+:::
 
 ````
 
 ````{tab-item} Year 3
-
 
 ::::{dropdown} (Physics major)
 :color: secondary
@@ -171,7 +181,6 @@ You can also choose a 15 credit elective.
 
 ````{tab-item} Year 4
 
-
 ::::{dropdown} (Physics major)
 :color: secondary
 
@@ -203,7 +212,8 @@ You can also choose a 15 credit elective.
 ::::{dropdown} (Geophysics major)
 :color: secondary
 
-Some modules may be available from the Institute  of Risk and Disaster Reduction, such as Natural and Anthropogenic Hazards and Vulnerability or Integrating Science into Risk and Disaster  Reduction
+:::{card} Some modules may be available from the Institute  of Risk and Disaster Reduction, such as Natural and Anthropogenic Hazards and Vulnerability or Integrating Science into Risk and Disaster  Reduction
+:::
 :::{card} Core modules
 
 
