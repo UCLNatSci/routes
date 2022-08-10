@@ -1,0 +1,20 @@
+th {
+  display: none;
+  border: 0px solid;
+  height: 1px;
+}
+
+body {
+  --sd-color-primary: #ADD8E6;
+  --sd-color-primary-text: #212529;
+}
+
+body {
+  --sd-color-secondary: #90EE90;
+  --sd-color-secondary-text: #212529;
+}
+
+body {
+  --sd-color-info: #FFB6C1;
+  --sd-color-info-text: #212529;
+}

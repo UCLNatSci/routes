@@ -1,37 +1,31 @@
-(main)=
-# Demo page
+(ASP_PHC)=
+# Astrophysics and Physical Chemistry
 
 hello world!!
 
 `````{tab-set}
 ````{tab-item} Year 1
 
-:::{dropdown} Info dropdown
+:::{card} Compulsory modules
+||||||
+| :-- | :-- | :-- | :-- | :-- |
+| NSCI0010 | Interdisciplinary Research Skills 1 | 0 credits | T1/2 |a|
+| NSCI0005 | Mathematics for Natural Sciences A | 15 credits | T1 ||
+Text explaining footnote a
+:::
+
+:::{dropdown} Choose another foundation module
 :color: info
 :open:
 
 ||||||
 | :-- | :-- | :-- | :-- | :-- |
-| NSCI0010 | Interdisciplinary Research Skills 1 | 0 credits | T1/2 |a|
-| NSCI0005 | Mathematics for Natural Sciences A | 15 credits | T1 ||
-| NSCI0006 | Mathematics for Natural Sciences B | 15 credits | T1 ||
+| module 1 |
+| module 2 |
 :::
 
-Text explaining footnote a
-
-:::{dropdown} Primary dropdown
+:::{dropdown} Choose 15 credits
 :color: primary
-:open:
-
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-| NSCI0010 | Interdisciplinary Research Skills 1 | 0 credits | T1/2 ||
-| NSCI0005 | Mathematics for Natural Sciences A | 15 credits | T1 ||
-| NSCI0006 | Mathematics for Natural Sciences B | 15 credits | T1 ||
-:::
-
-:::{dropdown} Secondary dropdown
-:color: secondary
 :open:
 
 ||||||
